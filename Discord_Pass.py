@@ -32,4 +32,4 @@ async def mpass(ctx):
 
 
 
-bot.run('でぃすこーどとーくん')
+bot.run('とーくん')
